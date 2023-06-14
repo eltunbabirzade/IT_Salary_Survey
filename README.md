@@ -23,4 +23,4 @@ The repository is organized as follows:
 
 
 ## License
-This project is licensed under the MIT License. You are free to use, modify, and distribute the code as per the terms of this license.
+This project is licensed under the Apache License. You are free to use, modify, and distribute the code as per the terms of this license.
